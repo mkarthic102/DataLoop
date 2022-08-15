@@ -1,0 +1,516 @@
+commit bc9d0f7c48714e9bbd61517b126453f43ef56820
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Mon Apr 18 13:34:43 2022 -0400
+
+    created template class
+
+commit af24b9611895bd8bf6ec7c939a63b9f4790611c5
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sun Apr 17 11:49:08 2022 -0400
+
+    checked for edge cases and added comments
+
+commit 4740f396f1024a8cf53124eac347ab591981d13b
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sun Apr 17 10:36:01 2022 -0400
+
+    working splice function
+
+commit 49a8e9b89e933a1fd2f97d40c41858fe0d44487b
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Fri Apr 15 10:21:45 2022 -0400
+
+    working version of ex32
+
+commit 19e5784218974815db7c770411037662eb91c698
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Thu Apr 14 17:02:41 2022 -0400
+
+    completed concatenate and print functions
+
+commit ddd1446ec89af2c367bd37fbdaec840e293f9f8b
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Thu Apr 14 13:24:34 2022 -0400
+
+    created assignment operator function and clear function
+
+commit cb24792d1d09660b7a0fd65709f0b49eac88ca36
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Thu Apr 14 13:01:01 2022 -0400
+
+    created copy constructor
+
+commit 9a7e53d691f9d5f6fb5676f06257700bed77f64e
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Thu Apr 14 12:19:52 2022 -0400
+
+    created operator+= function
+
+commit 66cea74171643e2279d75e98d8dedb62f5c4f469
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Thu Apr 14 11:44:21 2022 -0400
+
+    created default constructor, non-default constructor, and destructor
+
+commit b982f2b342674e22e87e154a8abf7490fc87f457
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Wed Apr 13 10:37:52 2022 -0400
+
+    working version of ex31
+
+commit 4e1481b9740dd0495b91f64c5030b81b1fb0840d
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Tue Apr 12 19:14:58 2022 -0400
+
+    everything works except = operator overloading
+
+commit adb30ec7a6a160368c809925dc182b531ded4b6a
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Tue Apr 12 17:58:27 2022 -0400
+
+    working version ex29
+
+commit bbd920b40a6ff3a63d54b59554b0ee1080c67162
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Mon Apr 4 19:28:00 2022 -0400
+
+    working version
+
+commit 0e5cec4a665068731cda746fbfe36e95b0cc8283
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sat Apr 2 17:58:55 2022 -0400
+
+    working version
+
+commit 41152bf082778da30c75a6aca389d0ac8e0d8d03
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Fri Apr 1 16:15:37 2022 -0400
+
+    created README and added comments to cpp file
+
+commit c7bf7a7f3b982f7582df54addc756937ad8ae664
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Fri Apr 1 12:26:11 2022 -0400
+
+    fixed issue with user input and everything prints in lowercase
+
+commit 80a9dcbb1f63570fca70673d37371366aadbf1bf
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Thu Mar 31 17:57:22 2022 -0400
+
+    program awaits the user to enter queries -- however, having problems with stringstream
+
+commit 34a399bf2d5d1696f21abe041400e151dc72fe7a
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Thu Mar 31 11:30:56 2022 -0400
+
+    broke down function that prints digraphs/trigraphs based on count into multiple helper functions
+
+commit 41a12a43995d3ffe52ed9e635a12ba6c4c5b1de0
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Thu Mar 31 11:05:36 2022 -0400
+
+    program now breaks ties if the user inputs c in the command line and digraphs/trigraphs have the same count
+
+commit 58e8ea9c9dd5c440f911ca64b914e90d406852ea
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Wed Mar 30 14:12:18 2022 -0400
+
+    prints out digraphs/trigraphs from largest to smallest count, still need to break ties
+
+commit f87fee8d2c9e8706d057d4972a6866871a346663
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Wed Mar 30 12:45:59 2022 -0400
+
+    successfully running program
+
+commit 3966672003554ba3ae5734ce43b9f65f70b60006
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Tue Mar 29 20:46:49 2022 -0400
+
+    changed helper function parameters that were pointers into references
+
+commit a387fe68ff1b77df42aadec20a3b8e20b8b90ddd
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Tue Mar 29 20:38:14 2022 -0400
+
+    changed name of symbolic constants in Makefile
+
+commit 4443059448a19d0b633d1fee64504f382e894db9
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Tue Mar 29 20:34:08 2022 -0400
+
+    created header file with function declarations and a Makefile
+
+commit cc30b530dd5723761b920ffbc30f8cb929d415f0
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Tue Mar 29 19:59:16 2022 -0400
+
+    broke down code (that was all in main) into various helper functions
+
+commit ee512daddec41138350350326078166ae76f414c
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Tue Mar 29 19:10:03 2022 -0400
+
+    added reverse iterator for the case when the user inputs r in the command line
+
+commit 7e904955356b90c1f484688d41b789ea012bb550
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Mon Mar 28 17:04:21 2022 -0400
+
+    map's value now is a pair that includes a count that successfully contains the number of times each digraph/trigraph occurs
+
+commit b292904eaa5fda6c63cfb756517c12657e2be72d
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Mon Mar 28 16:31:05 2022 -0400
+
+    program successfully prints out a map with each digraph and their corresponding words
+
+commit 049ca8d222db752e5f2d4ca7c26ced459c900191
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Mon Mar 28 13:05:32 2022 -0400
+
+    working version of classify.cpp
+
+commit 41c12aaba31a00021d80dff68b4811185365f528
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Mon Mar 28 12:01:27 2022 -0400
+
+    not properly accounting for case with three consecutive vowels (quietly in example 2)
+
+commit b752668c76ceac76346880e98dc15e9df2a0f2b8
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Mon Mar 28 11:55:40 2022 -0400
+
+    almost working version -- need to add new line characters in output file after every line
+
+commit 4ed3c5a05392b8defb2396564dd4da123eb064f4
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sun Mar 27 13:47:33 2022 -0400
+
+    working version
+
+commit 87169ba5a4304402512c9aec8d7130a07469d030
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sun Mar 27 11:58:31 2022 -0400
+
+    working version of exercise
+
+commit e16804ccbbfc9977db3be49994d0f9f1f9ad70ee
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Wed Mar 16 11:18:32 2022 -0400
+
+    partial version of sort.cpp
+
+commit be88d2c2d92d326d2f65ae791985aca19ee25bfc
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Mon Feb 28 20:32:45 2022 -0500
+
+    working version
+
+commit 90e15e8d7b4795114490d92f43bbec68ac2ff45e
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Thu Feb 24 16:58:25 2022 -0500
+
+    added minor comments
+
+commit fece6eb550e78e652f6058ffaabedba8bba0a2c9
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Thu Feb 24 16:35:17 2022 -0500
+
+    slight changes in error message
+
+commit 2d2114ec047c36d3db9b0b129b7485e329567f15
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Wed Feb 23 12:39:30 2022 -0500
+
+    fixed error codes
+
+commit 5ad337ae5030178fa7295bc5f108dff31480b465
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Wed Feb 23 12:00:49 2022 -0500
+
+    image produced successfullygit add cs220_paint.c driver.c (after fixing my min helper function - thank you dr. k)
+
+commit b13de8bb3a87b2255289bbbfaa4550580bc01fc5
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Tue Feb 22 14:40:10 2022 -0500
+
+    generates image correctly except errors in rectangle
+
+commit ef305553b1f2d7490a6e88dc26f440d9618c981e
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Tue Feb 22 11:34:17 2022 -0500
+
+    fixed segmentation fault error
+
+commit 9dbc41e93bcaf6416c96b004f2cf6069ce1cbe80
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Mon Feb 21 19:33:56 2022 -0500
+
+    wrote driver.c but segmentation fault error
+
+commit 952a15608b59360417d18258dd7bd56d3aa375ae
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Mon Feb 21 14:39:14 2022 -0500
+
+    added new target to compile all executables
+
+commit c653acfbcbb8e7b157c0f7d2871ff4be3bda16b4
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Mon Feb 21 14:37:06 2022 -0500
+
+    finished writing rect_flood_fill along with flood_fill
+
+commit c811dab5cb90605b31d069193598dd07dff68630
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Mon Feb 21 12:28:04 2022 -0500
+
+    partially wrote rect_flood_fill function
+
+commit 231f543fdb8a0392289d433c6bac0ba47ce1c993
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sun Feb 20 14:30:04 2022 -0500
+
+    wrote part of rec_flood_fill
+
+commit 32fca9d0607dec652286f5efb219cedc78cbe539
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sun Feb 20 12:51:44 2022 -0500
+
+    wrote render_ellipse function
+
+commit 2e3e78f57ec9dbe3d172c9df213d8a5a941b3aea
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sun Feb 20 11:36:14 2022 -0500
+
+    wrote render_rectangle function
+
+commit 3f89fc510350bfe83218981e592af91f7b418952
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sat Feb 19 19:11:20 2022 -0500
+
+    wrote definition for geom_dist
+
+commit 59b70bba125b3e66d7510e0760df193313fc9c4f
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sat Feb 19 14:54:41 2022 -0500
+
+    added target for cs220_paint executable
+
+commit 679b29414bcd263b9d6045438bcac2f6767bd574
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sat Feb 19 14:49:54 2022 -0500
+
+    updated Makefile with comments
+
+commit 9a88a0f7b34facd2af65fd3775e46839cd97a060
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sat Feb 19 14:41:32 2022 -0500
+
+    fixed errors
+
+commit 27aa87393a0a14dd0c7219c387f8fc084a881f5e
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sat Feb 19 14:39:09 2022 -0500
+
+    cs220_paint.c errors with return type and total_val
+
+commit fd1791e5b71ea739c6acb1ad3e43b61f2a2023cd
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Fri Feb 18 10:19:24 2022 -0500
+
+    ex11 primes.c working version
+
+commit 5359990e675cdb358093da0857789603291a78e4
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Thu Feb 17 18:08:43 2022 -0500
+
+    ex11 pairwise_sum.c working version
+
+commit 04ae894ceed8ee1fb09c4044ccc51d7f1e5d8c3d
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Mon Feb 14 10:59:50 2022 -0500
+
+    ex10 working version of passing.c
+
+commit e435c4807f238c70ee57cc6a59f0b066c705b3a5
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Fri Feb 11 10:59:11 2022 -0500
+
+    ex09 working version
+
+commit c885fd05a45484928d25f81004192634ca30af48
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Wed Feb 9 17:27:58 2022 -0500
+
+    created Makefile for ex08, not sure if Makefile captures ddependencies properly
+
+commit 59caac2a94c04d5489269824ace89fc1422293b6
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Tue Feb 8 09:14:40 2022 -0500
+
+    hw1 final working version
+
+commit 5bcc8f35dd013fa2b62b25d7da8f69dd173e0713
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Mon Feb 7 11:22:22 2022 -0500
+
+    ex07 working version of functions.c
+
+commit 76e9a7dc66bd5acc7191b85daff996afe6f6adcd
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sun Feb 6 14:13:59 2022 -0500
+
+    fixed error that caused all expressions (even rightones) to evaluate to malformed expression
+
+commit 085dbb4d80f00cfda176b02b18430c7cb06185ba
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sun Feb 6 13:41:22 2022 -0500
+
+    checks if input misses or has extra operators and operands and determines if the first input is a floating point number or not
+
+commit 8b8a6d366d2b7ccb689c1cb4ca6e7e1467723b76
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sun Feb 6 12:27:19 2022 -0500
+
+    accounts for division by zero
+
+commit cc31661098ce90b4dcaa41a7fad51b29ffc3062b
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sun Feb 6 11:53:45 2022 -0500
+
+    program accounts for case when */ or a variation of that is the first operator
+
+commit ca507a19649e1273611b22d977545a92204ba039
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sun Feb 6 11:33:25 2022 -0500
+
+    program performs multiplication and division with a single operator and two operands and outputs result to screen
+
+commit 76d71a1973c0f49fddf87ecdf7a54d6a15c6e9e3
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sat Feb 5 12:41:46 2022 -0500
+
+    created file for hw1
+
+commit abd1bf637075e79105bebdd9abdaf57436d8a951
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sat Feb 5 12:27:20 2022 -0500
+
+    adding up-to-date count1 and count2 (ex05)
+
+commit 34f997a70ff967d04a4f525567200adbc4bf9615
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sat Feb 5 12:21:56 2022 -0500
+
+    ex06 adding input and output files
+
+commit 6b86915b12d1477d3994bf578e26916f79dc7409
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sat Feb 5 12:17:03 2022 -0500
+
+    adding ex06 with vs code
+
+commit 7616ded2bb6934000e0112be1b6d743b2daa331a
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sat Feb 5 11:36:49 2022 -0500
+
+    ex06 working version
+
+commit e49067cdebfe8cb0c2a7ad63ec010980b99513b6
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sat Feb 5 09:28:02 2022 -0500
+
+    ex05 count3.c working version
+
+commit 09367cc03f068f0d9af12791473b3c474273cf0d
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Wed Feb 2 12:32:33 2022 -0500
+
+    ex05 count2 working version
+
+commit a37504ba5830003ca865e0fabd0c4b2420ebfdbf
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Wed Feb 2 12:18:21 2022 -0500
+
+    ex05 count2 working version (w/ out challenge)
+
+commit 2615d3e08b66513655c1b1ed1640c08cc7c01c9a
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Wed Feb 2 12:15:49 2022 -0500
+
+    ex05 count1 working version
+
+commit e3fc5857a5219c33795282620006b60d56491fb3
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Mon Jan 31 11:45:27 2022 -0500
+
+    deleting test file
+
+commit 32179fc34727079a6058a7179c71c343ce8e5394
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Mon Jan 31 11:44:17 2022 -0500
+
+    test file
+
+commit bcb59854fb6ae653dfb9ac592d37f57940584bad
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Mon Jan 31 11:41:01 2022 -0500
+
+    ex04 gpa working version
+
+commit eeaac4fb0279cd1d176a2e049e88eecd745ff4dd
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sun Jan 30 11:07:47 2022 -0500
+
+    created hw0 files
+
+commit 4b7cfa2a710e196779bb17be2fe8f8d0bff07208
+Merge: 1895b21 fc35080
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sun Jan 30 10:42:37 2022 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2022-spring-student-mkarthi2
+
+commit 1895b2183ac192928098a325c126cf7ca7574e8d
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Sun Jan 30 10:27:41 2022 -0500
+
+    created hw0 files
+
+commit fc35080d1fa1d2aac85894df2975810bf0d28efb
+Author: Meghana Karthic <65927734+mkarthic102@users.noreply.github.com>
+Date:   Fri Jan 28 11:07:24 2022 -0500
+
+    Delete test2.c
+
+commit 7ae553dd7f0fc8f24046111b6fa27be8e0fe4880
+Author: Meghana Karthic <65927734+mkarthic102@users.noreply.github.com>
+Date:   Fri Jan 28 11:07:15 2022 -0500
+
+    Delete test.c
+
+commit ff9b5bf230957b9c4511d55d41634e8a76b8bc1b
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Fri Jan 28 11:06:38 2022 -0500
+
+    test2
+
+commit 3484be2d59b9dacc487844188910f82100fae599
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Fri Jan 28 11:04:34 2022 -0500
+
+    test
+
+commit 637b5b83737438a76a8f9dc346a7c7f4e92c78c0
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Fri Jan 28 10:38:29 2022 -0500
+
+    updated README.txt
+
+commit 2fd1d30d2ee2b2b247991b5f1bece9399b63b513
+Author: Meghana Karthic <meg.karthic@gmail.com>
+Date:   Fri Jan 28 10:35:20 2022 -0500
+
+    created README.txt

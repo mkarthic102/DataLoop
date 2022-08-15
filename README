@@ -1,0 +1,17 @@
+1) Meghana Karthic - mkarthi2
+
+2) DataLoop.cpp and TDataLoop.inc contain the implementation of
+functions declared in DataLoop.h and TDataLoop.h, respectively. 
+DataLoop.cpp and TDataLoop.inc contain a default constructor,
+a non-default constructor, a copy constructor, a destructor, 
+overloaded operator functions, and a clear function. The clear 
+function is the only function that didn't have a declaration 
+in the starter code. I invoked clear() in my destructor and in
+the operator=() and splice() functions to empty a DataLoop.
+
+3) I used the overloaded operator functions I created when writing
+other overloaded operator functions. For example, in splice(), I
+used the overloaded assignment operator and in operator+(), I used
+the overloaded operator+=() function.
+
+4) Not applicable.
